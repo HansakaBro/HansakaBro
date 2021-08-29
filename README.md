@@ -1,11 +1,11 @@
 
-<h1 align="center"><b>Hello welcome my official Github/b></h1> 
+<h1 align="center"><b>Hello welcome my official Github </b> </h1> 
 
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a>
 </p>
 
-## <h1 align="center"> 💝 << Alpha >> 🍁</h1>
+## <h1 align="center"> </>HansakaBro</> </h1>
 
 <!-- programming langs i work-->
 <p align="center">
@@ -21,20 +21,12 @@
  ___
  <h1 align="center"><b> 📚 Member - @SL-Alpha-X-Team </b></h1> 
 
-<p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/7d8f31f13b6631242752d.jpg" width="400"></a></p>
+<p align="center"><a href="https://github.com/HansakaBro"><img src="https://telegra.ph/file/5b05aa5caa4f7c9b8e596.jpg" width="400"></a></p>
 
 ---
  ___
  
-<h1 align="center"><b>Alpha-X-Bot Coming Soon...</b></h1> 
+<h1 align="center"><b>Owner Of Anything SL Youtube Channel</b></h1> 
 
-<p align="center"><a href="https://github.com/SL-Alpha-X-Team"><img src="https://telegra.ph/file/acdd3b748883b1bb81535.jpg" width="400"></a></p>
+<p align="center"><a href="https://www.youtube.com/channel/UC6ZgCl_f6YPxAsrzWhApPow"><img src="https://telegra.ph/file/9b5f188c4ee02c2ca4acc.jpg" width="400"></a></p>
 
----
- ___
-<h1 align="center"><b>Alpha-X Sup Group</b></h1> 
-
-<p align="center"><a href="https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"><img src="https://telegra.ph/file/2bbf2cc997a7065124827.jpg" width="400"></a></p>
-
----
- ___

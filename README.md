@@ -28,12 +28,26 @@
  
  <h1 align="center"><b>My Github Properties</b></h1>
  
- ### My Github Status
 ![HansakaBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansakaBro&theme=dark&show_icons=true)
+
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaBro&theme=dark&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/HansakaBro)
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaBro&theme=dark&show_icons=true)
+<p>
+  <a href="https://github.com/HansakaBro">
+    <img src="https://komarev.com/ghpvc/?username=HansakaBro&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/HansakaBro?tab=stars">
+    <img src="https://img.shields.io/github/stars/HansakaBro?color=ff69b4&label=Stargazers&style=plastic">
+
+  </a>
+  <a href="https://github.com/HansakaBro?tab=followers">
+    <img src="https://img.shields.io/github/followers/HansakaBro?color=ff69b4&label=Followers&style=plastic">
+
+  </a>
+</p>
 
 <h1 align="center"><b>Owner Of Anything SL Youtube Channel</b></h1> 
 

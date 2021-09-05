@@ -19,20 +19,20 @@
 
 ---
  ___
- <h1 align="center"><b> 📚 Member - @SL-Alpha-X-Team </b></h1> 
+ - <h3><b>Member - @SL-Alpha-X-Team </b></h1> 
 
-<p align="center"><a href="https://github.com/HansakaBro"><img src="https://telegra.ph/file/5b05aa5caa4f7c9b8e596.jpg" width="400"></a></p>
+<p><a href="https://github.com/HansakaBro"><img src="https://telegra.ph/file/5b05aa5caa4f7c9b8e596.jpg" width="400"></a></p>
 
 ---
  ___
  
- <h1 align="center"><b>My Github Properties</b></h1>
+ - <h3><b>My Github Properties</b></h1>
  
 ![HansakaBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansakaBro&theme=dark&show_icons=true)
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaBro&theme=dark&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/HansakaBro)
+![VisitorCount](https://profile-counter.glitch.me/{HansakaBro}/count.svg)
 
 <p>
   <a href="https://github.com/HansakaBro">
@@ -49,18 +49,23 @@
   </a>
 </p>
 
-<h1 align="center"><b>Owner Of Anything SL Youtube Channel</b></h1> 
+ <a href="https://github.com/Damantha126"><img alt="Hansaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HansakaBro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<p align="center"><a href="https://www.youtube.com/channel/UC6ZgCl_f6YPxAsrzWhApPow"><img src="https://telegra.ph/file/9b5f188c4ee02c2ca4acc.jpg" width="400"></a></p>
+- <h3><b>Owner Of Anything SL Youtube Channel</b></h1> 
+
+<p><a href="https://www.youtube.com/channel/UC6ZgCl_f6YPxAsrzWhApPow"><img src="https://telegra.ph/file/9b5f188c4ee02c2ca4acc.jpg" width="400"></a></p>
 
 ---
  ___
 
-<h1 align="center"><b> Alpha-X WhatsApp BOT Coming soon...</b></h1> 
+- <h3><b> Alpha-X WhatsApp BOT Coming soon...</b></h1> 
 
-<p align="center"><a href="https://github.com/SL-Alpha-X-Team"><img src="https://telegra.ph/file/92af70c5978d87439119a.jpg" width="400"></a></p>
+<p><a href="https://github.com/SL-Alpha-X-Team"><img src="https://telegra.ph/file/92af70c5978d87439119a.jpg" width="400"></a></p>
 
-<h1><b> CONTACT ME ON</b></h1>
+---
+ ___
+ 
+- <h3><b> CONTACT ME ON</b></h1>
 
 <p align="left">
 <a href="https://t.me/HaNsAkAhIrUsHaN" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
@@ -68,3 +73,5 @@
 <a href="https://www.facebook.com/Anything-SL-10022240" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC6ZgCl_f6YPxAsrzWhApPow" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+
+![image](https://octodex.github.com/images/daftpunktocat-thomas.gif)

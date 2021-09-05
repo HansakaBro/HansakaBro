@@ -74,4 +74,4 @@
 <a href="https://www.youtube.com/channel/UC6ZgCl_f6YPxAsrzWhApPow" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-![image](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=300px>

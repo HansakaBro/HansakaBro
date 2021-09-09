@@ -42,12 +42,7 @@
   <a href="https://github.com/HansakaBro?tab=stars">
     <img src="https://img.shields.io/github/stars/HansakaBro?color=ff69b4&label=Stargazers&style=plastic">
 
-  </a>
-  <a href="https://github.com/HansakaBro?tab=followers">
-    <img src="https://img.shields.io/github/followers/HansakaBro?color=ff69b4&label=Followers&style=plastic">
-
-  </a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/HansakaBro.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HansakaBro?tab=followers)
 
  <a href="https://github.com/HansakaBro"><img alt="Hansaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HansakaBro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 

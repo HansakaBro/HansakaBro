@@ -21,7 +21,7 @@
  ___
  - <h3><b>Member - @SL-Alpha-X-Team </b></h1> 
 
-<p><a href="https://github.com/HansakaBro"><img src="https://telegra.ph/file/5b05aa5caa4f7c9b8e596.jpg" width="400"></a></p>
+<p><a href="https://github.com/HansakaBro"><img src="https://telegra.ph/file/b20ed34ea9b7868bcfdd2.jpg" width="400"></a></p>
 
 ---
  ___

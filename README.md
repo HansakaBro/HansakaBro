@@ -30,7 +30,7 @@
  
 ![HansakaBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansakaBro&theme=dark&show_icons=true)
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaBro&theme=dark&show_icons=true)
+![IMAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaBro&theme=dark&show_icons=true)
 
 ![VisitorCount](https://profile-counter.glitch.me/{HansakaBro}/count.svg)
 
@@ -41,7 +41,19 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/HansakaBro.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HansakaBro?tab=followers)
 
-
+---
+ ___
+ <details>   
+   
+<summary><h3><b>Github Public Details</b></h3></summary><br/>    
+   
+![NOICE](https://metrics.lecoq.io/HansakaBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Colombo)
+   
+ </details>
+    
+---
+ ___
+    
 - <h3><b>Owner Of Anything SL Youtube Channel</b></h1> 
 
 <p><a href="https://www.youtube.com/channel/UC6ZgCl_f6YPxAsrzWhApPow"><img src="https://telegra.ph/file/9b5f188c4ee02c2ca4acc.jpg" width="400"></a></p>

@@ -1,9 +1,7 @@
 
 <h1 align="center"><b>Hello welcome my official Github </b> </h1> 
 
-<p align='center'>
-  <a href="https://github.com/HansakaBro" alt="made-with-python"> <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966"width="50" /> </a>
-</p>
+![INFO](https://cardivo.vercel.app/api?name=HansakaBro%20&description=✎෴%20ᴡʜᴇɴ%20ᴛʜᴇ%20ᴛɪᴍᴇ%20ᴄᴏᴍᴇs,%20😼%20ᴏɴᴇ%20ᴅᴀʏ%20ɪ%20ᴡɪʟʟ%20sʜᴏᴡ%20ᴛʜᴏsᴇ%20ᴡʜᴏ%20ɪɴsᴛᴜʟᴛᴇᴅ%20ᴍᴇ%20ᴡʜᴏ%20ɪ%20ᴀᴍ...࿐%20😈&image=https://telegra.ph/file/d8d52218d93a17f80a6e2.jpg?v=4&backgroundColor=#white&github=HansakaBro&pattern=leaf&colorPattern=white)
 
 ## <h1 align="center"> </> HansakaBro </> </h1>
 

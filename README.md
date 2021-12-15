@@ -45,7 +45,7 @@
    
 <summary><h3><b>Github Public Details</b></h3></summary><br/>    
    
-![Mmm](https://metrics.lecoq.io/HansakaBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Colombo)
+![Metrics](https://metrics.lecoq.io/HansakaBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HansakaBro&theme=alduin" alt="HansakaBro" /></a> </p>
  </details>
     

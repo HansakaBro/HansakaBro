@@ -45,7 +45,7 @@
    
 <summary><h3><b>Github Public Details</b></h3></summary><br/>    
    
-![Metrics](https://metrics.lecoq.io/HansakaBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://camo.githubusercontent.com/8d5eeafaf64f71e1c2fb2ff4db0f18d2a679bc8bc218168122a52033baea8b60/68747470733a2f2f6d6574726963732e6c65636f712e696f2f48616e73616b6142726f3f74656d706c6174653d636c617373696326666f6c6c6f7775703d312669736f63616c656e6461723d31266c616e6775616765733d312669736f63616c656e6461722e6475726174696f6e3d68616c662d7965617226636f6e6669672e74696d657a6f6e653d4575726f7065253246497374616e62756c)
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HansakaBro&theme=alduin" alt="HansakaBro" /></a> </p>
  </details>
     

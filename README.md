@@ -46,6 +46,7 @@
 <summary><h3><b>Github Public Details</b></h3></summary><br/>    
    
 <p><a href="https://github.com/HansakaBro"><img src="https://metrics.lecoq.io/HansakaBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul" width="400"></a></p>
+  
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HansakaBro&theme=alduin" alt="HansakaBro" /></a> </p>
  </details>
     
@@ -56,12 +57,6 @@
 
 <p><a href="https://www.youtube.com/channel/UC6ZgCl_f6YPxAsrzWhApPow"><img src="https://telegra.ph/file/9b5f188c4ee02c2ca4acc.jpg" width="400"></a></p>
 
----
- ___
-
-- <h3><b> Alpha-X WhatsApp BOT Coming soon...</b></h1> 
-
-<p><a href="https://github.com/SL-Alpha-X-Team"><img src="https://telegra.ph/file/92af70c5978d87439119a.jpg" width="400"></a></p>
 
 ---
  ___

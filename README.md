@@ -17,7 +17,7 @@
 
 ---
  ___
- - <h3><b>CO-Owner - @SL-Alpha-X-Team </b></h1> 
+ - <h3><b>CO-Owner - <a href="https://github.com/SL-Alpha-X-Team">@SL-Alpha-X-Team</a> </b></h1> 
 
 <p><a href="https://github.com/HansakaBro"><img src="https://telegra.ph/file/79153c2bf6cbd32fc5a8a.jpg" width="400"></a></p>
 

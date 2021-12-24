@@ -1,3 +1,5 @@
+---
+___
 
 <h1 align="center"><b>Hello welcome my official Github </b> </h1> 
 
@@ -71,3 +73,6 @@
 </p>
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=300px>
+
+---
+___

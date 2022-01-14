@@ -33,14 +33,7 @@ ___
 ---
 ___
 
- 
- - <h3><b>My Github Properties</b></h1>
- 
-![HansakaBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansakaBro&theme=dark&show_icons=true)
-
-![IMAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=HansakaBro&theme=dark&show_icons=true)
-
-![VisitorCount](https://profile-counter.glitch.me/{HansakaBro}/count.svg)
+- <h3><b>GitHub Properties</b></h3>
 
 <p>
   <a href="https://github.com/HansakaBro">
@@ -53,7 +46,7 @@ ___
  ___
  <details>   
    
-<summary><h3><b>Github Public Details</b></h3></summary><br/>    
+<summary><h4><b>Public Details</b></h4></summary><br/>    
    
 ![Metrics](https://github.com/HansakaBro/HansakaBro/blob/main/github-metrics.svg)
   

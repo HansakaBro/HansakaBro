@@ -28,7 +28,7 @@ ___
 
 - <h3><b>Currently work</b></h1>
 
-![Alpha-X](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SL-Alpha-X-Team&repo=Alpha-X-WA-Bot&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true)
+<a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer-2"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SL-Alpha-X-Team&repo=Alpha-X-WA-Bot&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true">
 
 ---
 ___

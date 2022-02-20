@@ -40,7 +40,7 @@ ___
     <img src="https://komarev.com/ghpvc/?username=HansakaBro&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   
-[![GitHub followers](https://img.shields.io/github/followers/HansakaBro.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HansakaBro?tab=followers)
+[![followers](https://img.shields.io/github/followers/HansakaBro.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HansakaBro?tab=followers)
 
 ---
  ___

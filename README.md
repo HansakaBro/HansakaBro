@@ -2,8 +2,9 @@
 ___
 
 <h1 align="center"><b>Hello welcome my official Github </b> </h1> 
-
-![INFO](https://cardivo.vercel.app/api?name=HansakaBro%20&description=✎෴%20ᴡʜᴇɴ%20ᴛʜᴇ%20ᴛɪᴍᴇ%20ᴄᴏᴍᴇs,%20😼%20ᴏɴᴇ%20ᴅᴀʏ%20ɪ%20ᴡɪʟʟ%20sʜᴏᴡ%20ᴛʜᴏsᴇ%20ᴡʜᴏ%20ɪɴsᴛᴜʟᴛᴇᴅ%20ᴍᴇ%20ᴡʜᴏ%20ɪ%20ᴀᴍ...࿐%20😈&image=https://telegra.ph/file/d8d52218d93a17f80a6e2.jpg?v=4&backgroundColor=#white&github=HansakaBro&pattern=leaf&colorPattern=white)
+ 
+---
+ ___
 
 <h1 align="center"> </> HansakaBro </> </h1>
 
